@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/data/wildberries_iphone.json" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/data/wildberries_iphone.json" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/data/wildberries_робот пылесос.json" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/data/wildberries_робот пылесос.json" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/res.json" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/sync_wildberries_iphone.json" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/sync_wildberries_робот пылесос.json" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/sync_wildberries_робот_пылесос.json" charset="windows-1251" />
+  </component>
+</project>
