@@ -2,4 +2,5 @@ data
 venv
 __pycache__
 test_source
+.idea
 .gitignore
