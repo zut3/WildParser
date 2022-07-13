@@ -4,3 +4,4 @@ __pycache__
 test_source
 .idea
 .gitignore
+tests.py
